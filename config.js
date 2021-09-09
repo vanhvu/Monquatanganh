@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Tester4 à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Hơ nì ơi <3',
+    introDesc: `Từ ngày work from home, em không còn được gặp anh nữa.
+    Nhớ nhung chồng chất. 
+    Liệu anh có nhớ những ngày tháng còn được gặp nhau mỗi ngày?`,
+    btnIntro: 'Anh cũng nhớ em',
+    title: 'Thế giới hơn 7 tỉ người, nhưng anh có biết vì sao anh thật đặc biệt?',
+    desc: 'Anh làm trái tim em rung động mỗi ngày <3 ',
+    btnYes: 'Cảm ơn em đã luôn bên anh <3',
+    btnNo: 'Chuyện, anh biết mà:3',
+    question:'Một năm có 365 ngày, nhưng hôm nay là một ngày đặc biệt cho một người đặc biệt như anh. Anh muốn nhắn gì cho em?',
+    btnReply: 'Gửi cho em <3',
+    reply: 'Nhớ em, muốn gặp em!',
+    mess: 'Em nhớ rồi. Anh hãy chờ nhé!',
+    messDesc: 'Mình gặp nhau cho vơi nỗi nhớ anh ơi',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://drive.google.com/file/d/1CPNMuXzMjK9KOTNUdJtGwrKjqyovI3Sz/view?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
