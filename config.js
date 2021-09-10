@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Em nhớ rồi. Anh hãy chờ nhé!',
     messDesc: 'Mình gặp nhau cho vơi nỗi nhớ anh ơi',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://drive.google.com/file/d/1CPNMuXzMjK9KOTNUdJtGwrKjqyovI3Sz/view?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://meet.google.com/bic-enko-bku' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
